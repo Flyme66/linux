@@ -225,7 +225,7 @@ properties:
               - samsung,j5x
               - samsung,rossa
               - samsung,serranove
-              - thwc,uf896
+              - thwc,mf32
               - thwc,ufi001c
               - wingtech,wt88047
               - yiming,uz801-v3
